@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/shopping-mart/static/css/main.86081910.css",
+    "main.js": "/shopping-mart/static/js/main.289caaa3.js",
+    "static/js/787.38a058c5.chunk.js": "/shopping-mart/static/js/787.38a058c5.chunk.js",
+    "static/media/slider-3.jpg": "/shopping-mart/static/media/slider-3.6eedd2ca4a3e72d8ce3f.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/shopping-mart/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/slider-2.jpg": "/shopping-mart/static/media/slider-2.39bdc56a52536fa0219a.jpg",
+    "static/media/neck1.jpg": "/shopping-mart/static/media/neck1.9774dba1255e3957ae20.jpg",
+    "static/media/fontawesome-webfont.eot": "/shopping-mart/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/shopping-mart/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/goldring4.jpg": "/shopping-mart/static/media/goldring4.9d6aa822feeb334217fd.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/shopping-mart/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/slider1.jpg": "/shopping-mart/static/media/slider1.9f7eae3225b9df92ff7e.jpg",
+    "static/media/bangle1.jpg": "/shopping-mart/static/media/bangle1.c9ed8997457e56d9cc9b.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/shopping-mart/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/pendant1.jpg": "/shopping-mart/static/media/pendant1.a7be7ad0aa4c2ea675ef.jpg",
+    "static/media/platearring7.jpg": "/shopping-mart/static/media/platearring7.1d8053651b06d698f46a.jpg",
+    "static/media/earring1.jpg": "/shopping-mart/static/media/earring1.1e52656c05f0f55a970e.jpg",
+    "index.html": "/shopping-mart/index.html",
+    "main.86081910.css.map": "/shopping-mart/static/css/main.86081910.css.map",
+    "main.289caaa3.js.map": "/shopping-mart/static/js/main.289caaa3.js.map",
+    "787.38a058c5.chunk.js.map": "/shopping-mart/static/js/787.38a058c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86081910.css",
+    "static/js/main.289caaa3.js"
+  ]
+}
